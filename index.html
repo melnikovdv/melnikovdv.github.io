@@ -1,1 +1,32 @@
-Hello World
+---
+layout: default
+---
+<!-- <script type="text/javascript"> -->
+<!-- window.onload = function () { -->
+  <!-- document.getElementById('sidebar-about').style.display = 'none'; -->
+
+<!-- } -->
+</script>
+
+<div class="home">  
+
+  <div class="jumbotron">
+    <p>Hi! I'm Dmitriy Melnikov.</p>
+    <p>
+      I’m a software developer. I like Android, Scala, great APIs and gadgets.      
+      Besides IT my passion is swing dancing.
+    </p>    
+    <p>Check out my <a href="/cv/">CV</a> and feel free to <a href="mailto:melnikovdv@gmail.com">mail</a> me.</p>
+  </div>
+
+<h2>Blog entries</h2>
+  
+{% for post in site.categories.tech %}  
+
+<h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+
+{{ post.excerpt }}
+
+{% endfor %}    
+
+</div>

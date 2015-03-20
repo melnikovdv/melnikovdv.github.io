@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="container">
+
+          <div class="blog-header">
+            <h1 class="blog-title">Melnikov's Layer</h1>
+            <p class="lead blog-description">Welcome, everyone! I'm glad to see you at my cute page.</p>
+          </div>
+
+          <div class="row">
+            <div class="col-sm-8 blog-main">
+              {{ content }}
+            </div>
+            <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+              {% include sidebar.html %}
+            </div>
+          </div>            
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
