@@ -15,7 +15,7 @@
     $about.className += " active"
   } else if (document.URL.match("http://.*/toc/")) {
     $content.className += " active"
-  } else {
+  } else if ((document.URL == location.origin + "/") || (document.URL == location.origin + "/index.html")){
     $home.className += " active"
   }  
 });
