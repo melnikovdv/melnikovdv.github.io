@@ -12,7 +12,7 @@ author:
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
-url: "http://melnikovdv.github.io" # the base hostname & protocol for your site
+url: "http://mlayer.org" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
