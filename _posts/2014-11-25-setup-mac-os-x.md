@@ -24,9 +24,9 @@ todo
 
 ### Homebrew
 
-Most of apps are available through package manager [brew](http://brew.sh/) and its extension [brew-cask](http://caskroom.io/) (and [cask-versions](https://github.com/caskroom/homebrew-versions) for beta versions). 
+Most of apps are available through package manager [brew](http://brew.sh/) and its extension [brew-cask](http://caskroom.io/) (and [cask-versions](https://github.com/caskroom/homebrew-versions) for beta versions). Brew and cask will be installed by script too. 
 
-The script itself can be found as [gist](https://gist.github.com/melnikovdv/cd23756e1114afaf8e43#file-setup-sh). Just run it. What it will install by default: 
+The script itself can be found as [**gist**](https://gist.github.com/melnikovdv/cd23756e1114afaf8e43). Just run it. What it will install by default: 
 
 #### Misc
 
@@ -37,6 +37,8 @@ The script itself can be found as [gist](https://gist.github.com/melnikovdv/cd23
 
 #### Utilities
 
+* [iterm2](http://iterm2.com/) replacement for Terminal app
+* [oh-my-zsh](http://ohmyz.sh/) as default shell
 * [alfred](http://www.alfredapp.com/) for launch everything and automation
 * [bartender](http://www.macbartender.com/) allows to control menu bar icons
 * [evernote](https://evernote.com) for notes
@@ -71,6 +73,7 @@ The script itself can be found as [gist](https://gist.github.com/melnikovdv/cd23
 * [rbenv](https://github.com/sstephenson/rbenv) for managing ruby versions
 * [ngrok](https://ngrok.com/) for proxing localhost to other
 * [mongodb](http://www.mongodb.com/) as document database
+* [node](https://nodejs.org/) for nodejs (with jshint and csslint for SublimeLinter, read about it in Sublime section)
 
 ### App Store
 
@@ -85,7 +88,21 @@ The script itself can be found as [gist](https://gist.github.com/melnikovdv/cd23
 
 ## Configure apps 
 
-todo plugins for sublime and workflows for alfred
+After installation we should setup some of our apps. Most important mentioned here.
+
+#### Sublime
+
+Install PackageControl for sublime ([instructions](https://packagecontrol.io/installation)). Then follow for syncing guide. For me it's [dropbox-osx](https://packagecontrol.io/docs/syncing#dropbox-osx) couple.
+
+Useful sublime plugins: 
+
+* [Emmet](http://emmet.io/)
+* [Git](https://github.com/kemayo/sublime-text-git), 
+* [SublimeLinter](http://sublimelinter.com/) (with Lints: [csslint](https://github.com/SublimeLinter/SublimeLinter-csslint), [jslint](https://github.com/SublimeLinter/SublimeLinter-jshint), [json](https://github.com/SublimeLinter/SublimeLinter-json)). Nice example how to use SublimeLinter [video](http://www.youtube.com/watch?v=u6fvJRao-E4).
+
+#### Other
+
+todo workflows for alfred
 
 ## Success
 
