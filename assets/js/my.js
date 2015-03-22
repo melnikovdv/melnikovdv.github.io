@@ -1,7 +1,7 @@
-function onLoad() {    
+function onLoad() {
   setupHeader();
   showJoke();
-};
+}
 
 (window.onload = onLoad);
 
@@ -12,17 +12,17 @@ function setupHeader() {
   
   $about = document.getElementById("header-about");
   $content = document.getElementById("header-content");
-  $home = document.getElementById("header-home")
+  $home = document.getElementById("header-home");
 
   $about.className = usual; $content.className = usual; $home.className = usual;
   if (document.URL.match("http://.*/about/")) {
-    $about.className += " active"
+    $about.className += " active";
   } else if (document.URL.match("http://.*/toc/")) {
-    $content.className += " active"
+    $content.className += " active";
   } else if ((document.URL == location.origin + "/") || (document.URL == location.origin + "/index.html")){
-    $home.className += " active"
+    $home.className += " active";
   }  
-};
+}
 
 function showJoke() {    
   var s = $.getJSON("/assets/data/jokes.json", function(jokes) {
@@ -42,6 +42,6 @@ function showJoke() {
     document.getElementById("sidebar").appendChild(div);    
   });
   
-};
+}
 
 
