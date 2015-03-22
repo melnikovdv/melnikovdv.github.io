@@ -3,18 +3,37 @@ layout: page
 title: Content
 permalink: /toc/
 ---
-
+<h2>Blog</h2>
 {% for post in site.posts %}
-  {% capture currentyear %}{{post.date | date: "%Y %B"}}{% endcapture %}
-  {% if currentyear != year %}
-    {% unless forloop.first %} {% endunless %}
-      
-<p>{{ currentyear }}</p>    
-
-    {% capture year %}{{currentyear}}{% endcapture %} 
+  {% capture currentdate %}{{post.date | date: "%Y %B"}}{% endcapture %}
+  {% if currentdate != year %}
+    {% unless forloop.first %} {% endunless %}     
+<p>{{ currentdate }}</p>    
+    {% capture year %}{{currentdate}}{% endcapture %} 
   {% endif %}
 <ul class="list-unstyled">
-  <li><a href="{{ post.url }}">{{ post.title }}</a> - <span class="small">{{ post.excerpt | strip_html }}</span></li>
+  <li><a href="{{ post.url }}">{{ post.title }}</a>
+</ul>
+{% endfor %} 
+
+<h2>Outside blog</h2>
+
+<p>2014</p>
+<ul class="list-unstyled">
+  <li>
+    <a href="http://siliconrus.com/2014/10/yamoney-hack/">Yandex.Money Hackathon rewiew</a>
+    <span class="label label-primary"><span class="glyphicon glyphicon-info-sign"></span> RU</span>
+  </li>
 </ul>
 
-{% endfor %} 
+<p>2012</p>
+<ul class="list-unstyled">
+  <li>
+    <a href="http://habrahabr.ru/post/138869/">Stripe on Habrahabr.ru</a> 
+    <span class="label label-primary"><span class="glyphicon glyphicon-info-sign"></span> RU</span>
+  </li>
+  <li>
+    <a href="http://habrahabr.ru/post/145086/">Mobile POS terminals on Habrahabr.ru</a>
+    <span class="label label-primary"><span class="glyphicon glyphicon-info-sign"></span> RU</span></li>
+  </li>
+</ul>
