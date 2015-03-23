@@ -21,19 +21,16 @@ permalink: /toc/
 <p>2014</p>
 <ul class="list-unstyled">
   <li>
-    <a href="http://siliconrus.com/2014/10/yamoney-hack/">Yandex.Money Hackathon rewiew</a>
-    <span class="label label-primary"><span class="glyphicon glyphicon-info-sign"></span> RU</span>
+    <a href="http://siliconrus.com/2014/10/yamoney-hack/">Yandex.Money Hackathon rewiew <i class="fa fa-info-circle"></i> ru</a>
   </li>
 </ul>
 
 <p>2012</p>
 <ul class="list-unstyled">
   <li>
-    <a href="http://habrahabr.ru/post/138869/">Stripe on Habrahabr.ru</a> 
-    <span class="label label-primary"><span class="glyphicon glyphicon-info-sign"></span> RU</span>
+    <a href="http://habrahabr.ru/post/138869/">Stripe on Habrahabr.ru <i class="fa fa-info-circle"></i> ru</a>
   </li>
   <li>
-    <a href="http://habrahabr.ru/post/145086/">Mobile POS terminals on Habrahabr.ru</a>
-    <span class="label label-primary"><span class="glyphicon glyphicon-info-sign"></span> RU</span></li>
+    <a href="http://habrahabr.ru/post/145086/">Mobile POS terminals on Habrahabr.ru <i class="fa fa-info-circle"></i> ru</a>
   </li>
 </ul>
