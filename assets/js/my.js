@@ -1,9 +1,9 @@
+(window.onload = onLoad);
+
 function onLoad() {
   setupHeader();
   showJoke();
 }
-
-(window.onload = onLoad);
 
 // some hint to avoid buzzing in templates
 function setupHeader() {
@@ -27,21 +27,9 @@ function setupHeader() {
 function showJoke() {    
   var s = $.getJSON("/assets/data/jokes.json", function(jokes) {
     i = Math.floor(Math.random() * jokes.dev.length);
-
-    var div = document.createElement("div");
-    div.className = "sidebar-module sidebar-module-inset";
     
-    var p = document.createElement("h4");
-    p.innerText = "Dev humour";
-    div.appendChild(p);
-
-    p = document.createElement("p");    
+    p = document.getElementById("p-joke");
     p.innerText = jokes.dev[i];
-    div.appendChild(p);    
-
-    document.getElementById("sidebar").appendChild(div);    
   });
-  
 }
-
 

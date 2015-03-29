@@ -19,4 +19,15 @@
     <h4 class="rss-subscribe">Subscribe</h4>
     <a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="btn"><i class="fa fa-rss fa-1x"></i>&nbsp;RSS</a>
   </div>
+
+  <div class="sidebar-module sidebar-module-inset">
+    <div class="inline-block">
+      <h4>Dev humour</h4>
+    </div>
+    <div class="refresh-joke">
+      <a onclick="showJoke();"><i class="fa fa-refresh"></i></a>
+    </div>
+    <p id="p-joke"></p>
+  </div>
+
 </div>
