@@ -7,9 +7,11 @@ tags: osx mac soft script
 excerpt_separator: <!--more-->
 ---
 
-The following instructions and shell script will help to automate setup and installation of software on Mac OS X. It can be useful when you upgrade your mac to new one. 
+The following instructions and shell script will help to automate setup and installation of software on Mac OS X. 
 
 <!--more-->
+
+It can be useful when you upgrade your mac to a new one. It's possible to use native OSX app for it, but it has no flexibility for dotfiles and other dev stuff. Also who wants to copy all garbage and trash from previous computer to a new one? 
 
 ## Before setup
 
