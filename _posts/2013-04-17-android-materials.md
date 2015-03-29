@@ -26,6 +26,13 @@ development books
 * [Android development](http://commonsware.com/Android/) - best Android book ever. It's book as a service, so it's always up-to-date.
 * [d.android.com/develop/](http://d.android.com/develop/)
 
+best practices
+--------------
+
+* [Futurice](https://github.com/futurice/android-best-practices) - best practices from Finnish company, collection of quite rational views and thoughts.
+* [xda-developers topic](http://forum.xda-developers.com/showthread.php?t=2635275) - some useful pieces of advice.
+* [d.android.com/guide/practices/](http://developer.android.com/guide/practices/index.html) - some useful info.
+
 design books
 ------------
 
