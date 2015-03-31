@@ -32,6 +32,7 @@ best practices
 * [Futurice](https://github.com/futurice/android-best-practices) - best practices from Finnish company, collection of quite rational views and thoughts.
 * [xda-developers topic](http://forum.xda-developers.com/showthread.php?t=2635275) - some useful pieces of advice.
 * [d.android.com/guide/practices/](http://developer.android.com/guide/practices/index.html) - some useful info.
+* [code style](http://source.android.com/source/code-style.html)
 
 design books
 ------------
