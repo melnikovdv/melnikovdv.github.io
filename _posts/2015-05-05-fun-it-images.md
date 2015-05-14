@@ -15,7 +15,7 @@ Here is my collection of it-oriented funny images.
 
 ### Any programming manual
 
-![](https://img-fotki.yandex.ru/get/9816/59765760.1/0_ada28_42806a56_XL.jpg)
+![](https://img-fotki.yandex.ru/get/9251/59765760.1/0_ada29_1e6ae799_orig.jpg)
 
 ### TouchWiz vs Pure Android 
 
