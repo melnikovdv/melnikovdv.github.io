@@ -56,6 +56,7 @@ example apps with sources
 -------------------------
 
 * SDK samples - /path-to-android-sdk/samples.
+* [Android basic apps (Calendar, Contacts, Email, etc)](https://android.googlesource.com/)
 * [Smashing Android UI](https://play.google.com/store/apps/details?id=com.androiduipatterns.smashingandroidui.examples&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5hbmRyb2lkdWlwYXR0ZXJucy5zbWFzaGluZ2FuZHJvaWR1aS5leGFtcGxlcyJd)
 * [Google I/O 2014](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched)
 * [Google I/O 2013](https://play.google.com/store/apps/details?id=com.google.android.apps.iosched&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmlvc2NoZWQiXQ..)
