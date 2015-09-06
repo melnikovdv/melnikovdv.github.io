@@ -32,3 +32,7 @@ Here is my collection of it-oriented funny images.
 ### jQuery
 
 ![](https://img-fotki.yandex.ru/get/4107/59765760.1/0_ada27_77dd9638_XL.jpg)
+
+### Every website, 2015
+
+![](https://img-fotki.yandex.ru/get/3013/59765760.1/0_b18f1_a02e4c36_XL.png)
