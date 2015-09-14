@@ -51,6 +51,7 @@ The script itself can be found as [**gist**](https://gist.github.com/melnikovdv/
 * [ynab](http://www.youneedabudget.com/) for finance managment
 * [android file transfer](https://www.android.com/filetransfer/) for file moving from/to android
 * [divvy](https://mizage.com/divvy/) for windows management
+* [slate](https://github.com/jigish/slate) for storing window layouts
 * [fantastical](http://flexibits.com/fantastical) nice ui for Google Calendar
 * [tree](http://mama.indstate.edu/users/ice/tree/) for pretty folders output
 * [ffmpeg](https://www.ffmpeg.org/) for vide converting
