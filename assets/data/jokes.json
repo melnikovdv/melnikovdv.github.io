@@ -81,6 +81,7 @@
         "If you make a general statement, a programmer says, 'Yes, but...' while a designer says, 'Yes, and...'",
         "The greatest trick the devil ever pulled was creating 'Reply All'.",
         "Debugging is like being the detective in a crime movie where you are also the murderer.",
-        "Startup L. Devloper"
+        "Startup L. Devloper",
+        "If by \"container\" you mean emacs...yes, I deploy and run my app inside a container."
     ]
 }
