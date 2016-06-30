@@ -25,6 +25,7 @@ development books
 
 * [Android development](http://commonsware.com/Android/) - best Android book ever. It's book as a service, so it's always up-to-date.
 * [d.android.com/develop/](http://d.android.com/develop/)
+* [Repo](https://github.com/xxv/android-lifecycle) with android-lifecycle in details 
 
 best practices
 --------------
