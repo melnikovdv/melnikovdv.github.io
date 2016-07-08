@@ -9,3 +9,5 @@ adb shell input keyevent 26
 
 unlock:
 adb shell input keyevent 82
+
+https://plus.google.com/+AndroidDevelopers/posts/GdNrQciPwqo
