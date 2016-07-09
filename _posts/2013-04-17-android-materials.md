@@ -3,7 +3,7 @@ layout: post
 title:  "Worthy android tools, books and guides"
 date:   2013-04-17 14:48:09
 categories: tech
-tags: android links 
+tags: android links
 excerpt_separator: <!--more-->
 ---
 
@@ -11,21 +11,25 @@ It's my collection of really worthy resources for Android development and I try 
 
 <!--more-->
 
-tools
------
+tools & libs
+------------
 
-* [Android Studio (IDEA based)](http://developer.android.com/sdk/installing/studio.html)
+* Android [tools](http://developer.android.com/sdk/installing/studio.html)
 * [Gradle](http://www.gradle.org/)
-* [Genymotion](http://www.genymotion.com/) - fast and furious Android emulator.
+* [Genymotion](http://www.genymotion.com/)
+* [Kotlin](https://kotlinlang.org/)
+* [Dagger 2](http://google.github.io/dagger/)
+* Reactive package: [RxJava](https://github.com/ReactiveX/RxJava), [RxAnroid](https://github.com/ReactiveX/RxAndroid), [RxBinding](https://github.com/JakeWharton/RxBinding)
 
 ![](https://img-fotki.yandex.ru/get/15521/59765760.0/0_aa09b_59d256c5_M.png)
 
 development books
 -----------------
 
-* [Android development](http://commonsware.com/Android/) - best Android book ever. It's book as a service, so it's always up-to-date.
 * [d.android.com/develop/](http://d.android.com/develop/)
-* [Repo](https://github.com/xxv/android-lifecycle) with android-lifecycle in details 
+* [Android development](http://commonsware.com/Android/) - best Android book ever. It's book as a service, so it's always up-to-date.
+* [Series of articles](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) from Chet Haase
+* [Repo](https://github.com/xxv/android-lifecycle) with android-lifecycle in details
 
 best practices
 --------------
@@ -50,7 +54,7 @@ services
 * [Parcelabler](http://devk.it/proj/parcelabler/)
 * [Meterial design colors](http://www.materialpalette.com/)
 * [Material design icons](https://github.com/google/material-design-icons/releases/latest)
-* [Action Bar style generator](http://jgilfelt.github.io/android-actionbarstylegenerator/) - deprecated
+* @deprecated [Action Bar style generator](http://jgilfelt.github.io/android-actionbarstylegenerator/)
 * [Holo colors generator](http://android-holo-colors.com/)
 
 example apps with sources
