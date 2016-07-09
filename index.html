@@ -6,20 +6,20 @@ layout: default
   <div class="jumbotron">
     <p>Hi! I'm Dmitriy Melnikov.</p>
     <p>
-      I’m a software developer. I like Android, Scala, great APIs and gadgets.      
+      I’m a software developer. I like Android, Kotlin, great APIs and gadgets.
       Besides IT my passion is swing dancing.
-    </p>    
+    </p>
     <p>Check out my <a href="/cv/">CV</a> and feel free to <a href="mailto:melnikovdv@gmail.com">mail</a> me.</p>
   </div>
 
   <h1>Useful blog entries</h1>
-    
-  {% for post in site.categories.tech %}  
+
+  {% for post in site.categories.tech %}
 
   <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
 
   {{ post.excerpt }}
 
-  {% endfor %}    
+  {% endfor %}
 
 </div>
