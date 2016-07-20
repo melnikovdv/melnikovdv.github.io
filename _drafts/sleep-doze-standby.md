@@ -11,3 +11,8 @@ unlock:
 adb shell input keyevent 82
 
 https://plus.google.com/+AndroidDevelopers/posts/GdNrQciPwqo
+
+doze mode
+standby mode
+
+gms/gcm/fcm
