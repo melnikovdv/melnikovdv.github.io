@@ -1,3 +1,19 @@
+---
+layout: post
+title:  "Rocking in background"
+categories: tech
+tags: android doze standby background
+excerpt_separator: <!--more-->
+---
+
+This topic aims to explain strategy of working in Android background.
+If words doze, job scheduler, standby or high priority pushes
+makes you confused, then welcome to the article.
+
+<!--more-->
+
+
+
 http://stackoverflow.com/questions/13534732/how-to-make-the-android-device-hold-a-tcp-connection-to-internet-without-wake-lo
 
 http://stackoverflow.com/questions/30547517/which-websocket-library-to-use-in-android-app
