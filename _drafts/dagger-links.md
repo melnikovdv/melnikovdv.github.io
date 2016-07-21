@@ -3,6 +3,8 @@
 [Couchbase Lite](http://developer.couchbase.com/documentation/mobile/current/get-started/couchbase-lite-overview/index.html) overview
 [Docker intro](https://www.youtube.com/watch?v=IgJXYU3GOM4) from Intellij IDEA
 
+https://medium.com/azimolabs/dagger-2-on-production-reducing-methods-count-5a13ff671e30
+
 Dagger 2
 
 [Dagger 2](http://google.github.io/dagger/) - DI framework

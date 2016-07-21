@@ -9,3 +9,6 @@ http://szagurskii.com/blog/how-to-load-heavy-libraries-on-splash-screen/
 
 serverless apps (BaaS/FaaS) by Martin Fowler
 http://martinfowler.com/articles/serverless.html
+
+About Dagger 2
+https://medium.com/azimolabs/dagger-2-on-production-reducing-methods-count-5a13ff671e30
