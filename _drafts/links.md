@@ -6,3 +6,6 @@ https://www.bignerdranch.com/blog/splash-screens-the-right-way/
 
 loading heavy libraries on startap
 http://szagurskii.com/blog/how-to-load-heavy-libraries-on-splash-screen/
+
+serverless apps (BaaS/FaaS) by Martin Fowler
+http://martinfowler.com/articles/serverless.html
