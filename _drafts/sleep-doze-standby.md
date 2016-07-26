@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 This topic aims to explain strategy of working in Android background.
-If words doze, job scheduler, standby or high priority pushes 
+If words doze, job scheduler, standby or high priority pushes
 makes you confused, then welcome to the article.
 
 <!--more-->
@@ -32,3 +32,8 @@ doze mode
 standby mode
 
 gms/gcm/fcm
+
+
+adb shell dumpsys battery unplug
+adb shell dumpsys deviceidle step
+adb shell am set-inactive ru.ok.messages true // standby
