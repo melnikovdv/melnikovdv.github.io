@@ -6,7 +6,7 @@ tags: images, jokes
 excerpt_separator: <!--more-->
 ---
 
-Here is my collection of it-oriented funny images. 
+Here is my collection of it-oriented funny images.
 <!--more-->
 
 ### IE scary movie
@@ -17,7 +17,7 @@ Here is my collection of it-oriented funny images.
 
 ![](https://img-fotki.yandex.ru/get/9251/59765760.1/0_ada29_1e6ae799_orig.jpg)
 
-### TouchWiz vs Pure Android 
+### TouchWiz vs Pure Android
 
 ![](https://img-fotki.yandex.ru/get/3417/59765760.0/0_ad6ee_2333ffaf_L.jpg)
 
@@ -36,3 +36,7 @@ Here is my collection of it-oriented funny images.
 ### Every website, 2015
 
 ![](https://img-fotki.yandex.ru/get/3013/59765760.1/0_b18f1_a02e4c36_XL.png)
+
+### Math functions real life examples
+
+![](https://img-fotki.yandex.ru/get/98050/59765760.1/0_bc830_ec0d93f6_XL.png)

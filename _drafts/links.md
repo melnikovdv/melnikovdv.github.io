@@ -12,3 +12,12 @@ http://martinfowler.com/articles/serverless.html
 
 About Dagger 2
 https://medium.com/azimolabs/dagger-2-on-production-reducing-methods-count-5a13ff671e30
+
+Typedef (IntDef) annotations in kotlin syntax
+http://blog.makingiants.com/typedef-annotations-example-in-kotlin-intdef/
+
+Status bar color
+http://blog.makingiants.com/set-status-bar-color/
+
+Android blog
+http://blog.blundellapps.co.uk/
