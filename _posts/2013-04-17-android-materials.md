@@ -45,9 +45,9 @@ design tools
 ------------
 
 * [d.android.com/design/](http://d.android.com/design/)
+* [Material up](http://www.materialup.com/)
 * [Smashing Android UI](http://www.androiduipatterns.com/p/smashing-android-ui.html)
 * [Android cheatsheet for graphic designers](http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/)
-* [Material up](http://www.materialup.com/)
 
 services
 --------
