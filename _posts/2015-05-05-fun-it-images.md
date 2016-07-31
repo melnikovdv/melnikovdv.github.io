@@ -37,6 +37,6 @@ Here is my collection of it-oriented funny images.
 
 ![](https://img-fotki.yandex.ru/get/3013/59765760.1/0_b18f1_a02e4c36_XL.png)
 
-### Math functions real life examples
+### Math functions real life examples (from [here](https://medium.com/techspiration-ideas-making-it-happen/tech-life-as-graphs-ab5abbbdb47e))
 
 ![](https://img-fotki.yandex.ru/get/98050/59765760.1/0_bc830_ec0d93f6_XL.png)
