@@ -19,7 +19,7 @@ tools & libs
 * [Genymotion](http://www.genymotion.com/)
 * [Kotlin](https://kotlinlang.org/)
 * [Dagger 2](http://google.github.io/dagger/)
-* Reactive package: [RxJava](https://github.com/ReactiveX/RxJava), [RxAnroid](https://github.com/ReactiveX/RxAndroid), [RxBinding](https://github.com/JakeWharton/RxBinding)
+* Reactive package: [RxJava](https://github.com/ReactiveX/RxJava), [RxAnroid](https://github.com/ReactiveX/RxAndroid), [RxBinding](https://github.com/JakeWharton/RxBinding), [RxProguard](https://github.com/artem-zinnatullin/RxJavaProGuardRules)
 * Proguard [snippets](https://github.com/krschultz/android-proguard-snippets)
 
 ![](https://img-fotki.yandex.ru/get/15521/59765760.0/0_aa09b_59d256c5_M.png)
