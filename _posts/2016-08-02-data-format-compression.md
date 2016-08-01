@@ -16,4 +16,4 @@ Before choose something Uber made an effort to find out what is the best for the
 
 But according to the existant schemaless solutions at the moment of choosing and the cost of migration they prefered the most effective within of schemaless set. As result they use MessagePack + zlib.
 
-Noteble that at [ok.ru](https://ok.ru/) we are currently use exactly the same couple for data transmission in messages platform.
+Notable that at [ok.ru](https://ok.ru/) we are currently use exactly the same couple for data transmission in messages platform.
