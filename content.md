@@ -12,7 +12,7 @@ permalink: /toc/
     {% capture year %}{{currentdate}}{% endcapture %}
   {% endif %}
 <ul class="list-unstyled">
-  <li><a href="{{ post.url }}">{{ post.title }}</a>
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 </ul>
 {% endfor %}
 
