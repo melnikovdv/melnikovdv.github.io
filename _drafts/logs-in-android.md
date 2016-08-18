@@ -26,9 +26,10 @@ You can check size of your logcat with command
 Writing logs to files can slowdown your performance. It should be done in the background.
 
 You don't want an endless log. It should be rotated.
+Rotation isn't a simple feature to implement. It's better to be a well well known and tested solution.
 
 Size of logs are individual for different apps. It should be easily setup.
-As options it's useful to set different buffer size for dev/beta builds and production builds. Just because you don't want to drain real user's traffic and battery for excessive logs. 
+As options it's useful to set different buffer size for dev/beta builds and production builds. Just because you don't want to drain real user's traffic and battery for excessive logs.
 
 ### What else
 
@@ -41,3 +42,4 @@ It can be done with caching stacktraces's hashcodes and checking before sending.
 
 https://developer.android.com/studio/command-line/logcat.html
 https://developer.android.com/studio/debug/am-logcat.html
+slf4j + logback workaournd [gist](https://gist.github.com/melnikovdv/306f4ef5892e41498d35252c89d7a6db)
