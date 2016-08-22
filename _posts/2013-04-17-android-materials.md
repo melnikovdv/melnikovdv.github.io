@@ -19,7 +19,7 @@ tools & libs
 * [Genymotion](http://www.genymotion.com/)
 * [Kotlin](https://kotlinlang.org/)
 * [Dagger 2](http://google.github.io/dagger/)
-* Reactive package: [RxJava](https://github.com/ReactiveX/RxJava), [RxAnroid](https://github.com/ReactiveX/RxAndroid), [RxBinding](https://github.com/JakeWharton/RxBinding), [RxProguard](https://github.com/artem-zinnatullin/RxJavaProGuardRules)
+* Reactive package: [RxJava](https://github.com/ReactiveX/RxJava), [RxAnroid](https://github.com/ReactiveX/RxAndroid), [RxBinding](https://github.com/JakeWharton/RxBinding)
 * Proguard [snippets](https://github.com/krschultz/android-proguard-snippets)
 
 ![](https://img-fotki.yandex.ru/get/15521/59765760.0/0_aa09b_59d256c5_M.png)
@@ -62,12 +62,12 @@ services
 example apps with sources
 -------------------------
 
-* SDK samples - path/android-sdk/samples
-* [Testing samples](https://github.com/googlesamples/android-testing)
+* SDK samples - /path-to-android-sdk/samples.
 * [Android basic apps (Calendar, Contacts, Email, etc)](https://android.googlesource.com/)
-* [Smashing Android UI](https://play.google.com/store/apps/details?id=com.androiduipatterns.smashingandroidui.examples)
-* [Google I/O 2016](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched)
+* [Google I/O 2014](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched)
+* [Google I/O 2013](https://play.google.com/store/apps/details?id=com.google.android.apps.iosched&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmlvc2NoZWQiXQ..)
 * [GitHub app](https://play.google.com/store/apps/details?id=com.github.mobile&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5naXRodWIubW9iaWxlIl0.)
+* [Smashing Android UI](https://play.google.com/store/apps/details?id=com.androiduipatterns.smashingandroidui.examples)
 
 misc
 ----
