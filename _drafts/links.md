@@ -21,3 +21,6 @@ http://blog.makingiants.com/set-status-bar-color/
 
 Android blog
 http://blog.blundellapps.co.uk/
+
+About typical overengineering mistaks
+https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8
