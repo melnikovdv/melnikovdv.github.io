@@ -24,3 +24,12 @@ http://blog.blundellapps.co.uk/
 
 About typical overengineering mistaks
 https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8
+
+Email validation
+http://blog.onyxbits.de/validating-email-addresses-with-a-regex-do-yourself-a-favor-and-dont-391/
+
+Fast.com speed measure architecture from Netflix
+http://techblog.netflix.com/2016/08/building-fastcom.html
+
+Why Kotlin on Android by Jake Wharton
+https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/preview?hl=ru&forcehl=1

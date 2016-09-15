@@ -11,6 +11,8 @@ Dagger 2
 [One](http://frogermcs.github.io/dependency-injection-with-dagger-2-introdution-to-di/) of many froger_mcs's blog posts about Dagger 2.
 Codepath Dagger 2 [cliffnote](https://guides.codepath.com/android/Dependency-Injection-with-Dagger-2)
 
+https://medium.com/di-101/di-101-part-1-81896c2858a0 - simple DI explanation for Android
+
 Examples:
 [1](https://github.com/grandstaish/hello-mvp-dagger-2) - Android MVP example code using RxJava, Retrolambda, Dagger 2, and more
 [2](https://github.com/damianpetla/kotlin-dagger-example) - Kotlin Dagger 2 example
