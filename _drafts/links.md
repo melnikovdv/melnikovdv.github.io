@@ -33,3 +33,30 @@ http://techblog.netflix.com/2016/08/building-fastcom.html
 
 Why Kotlin on Android by Jake Wharton
 https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/preview?hl=ru&forcehl=1
+
+list of android libraries
+https://snowdream.github.io/awesome-android/Framework.html
+
+list of open source android apps
+https://github.com/pcqpcq/open-source-android-apps
+
+why fragments in android is bad
+https://medium.com/square-corner-blog/advocating-against-android-fragments-81fd0b462c97
+
+get rid of fragments in android
+https://softwaremill.com/finally-getting-rid-of-android-fragments/
+
+android architecture samples
+https://github.com/googlesamples/android-architecture
+
+gradle build speed up
+https://medium.com/@cesarmcferreira/speeding-up-gradle-builds-619c442113cb
+
+hide data in anroid
+https://rammic.github.io/2015/07/28/hiding-secrets-in-android-apps/
+
+java design patterns
+https://github.com/iluwatar/java-design-patterns
+
+Android architecture sample
+https://github.com/android10/Android-CleanArchitecture
