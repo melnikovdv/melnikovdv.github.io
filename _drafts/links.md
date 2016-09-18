@@ -60,3 +60,6 @@ https://github.com/iluwatar/java-design-patterns
 
 Android architecture sample
 https://github.com/android10/Android-CleanArchitecture
+
+Android clean architecture
+https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029#.95oymchc4
