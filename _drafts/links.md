@@ -1,65 +1,85 @@
-rx defer
-http://blog.danlew.net/2015/07/23/deferring-observable-code-until-subscription-in-rxjava/ -
+20160919
 
-splash screen made right
-https://www.bignerdranch.com/blog/splash-screens-the-right-way/
+View for simple camera API
+https://github.com/google/cameraview
 
-loading heavy libraries on startap
-http://szagurskii.com/blog/how-to-load-heavy-libraries-on-splash-screen/
+Reduce apk size
+http://sthagios.com/2016/08/29/reduce-apk-size/
 
-serverless apps (BaaS/FaaS) by Martin Fowler
-http://martinfowler.com/articles/serverless.html
+Android clean architecture
+http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/
 
-About Dagger 2
-https://medium.com/azimolabs/dagger-2-on-production-reducing-methods-count-5a13ff671e30
+Android clean architecture
+https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029
 
-Typedef (IntDef) annotations in kotlin syntax
-http://blog.makingiants.com/typedef-annotations-example-in-kotlin-intdef/
+20160918
 
-Status bar color
-http://blog.makingiants.com/set-status-bar-color/
+Jake Wharton's Java hidden costs
+https://realm.io/news/360andev-jake-wharton-java-hidden-costs-android/
+[video]
 
-Android blog
-http://blog.blundellapps.co.uk/
-
-About typical overengineering mistaks
-https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8
-
-Email validation
-http://blog.onyxbits.de/validating-email-addresses-with-a-regex-do-yourself-a-favor-and-dont-391/
-
-Fast.com speed measure architecture from Netflix
-http://techblog.netflix.com/2016/08/building-fastcom.html
-
-Why Kotlin on Android by Jake Wharton
-https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/preview?hl=ru&forcehl=1
-
-list of android libraries
-https://snowdream.github.io/awesome-android/Framework.html
-
-list of open source android apps
-https://github.com/pcqpcq/open-source-android-apps
-
-why fragments in android is bad
-https://medium.com/square-corner-blog/advocating-against-android-fragments-81fd0b462c97
-
-get rid of fragments in android
-https://softwaremill.com/finally-getting-rid-of-android-fragments/
-
-android architecture samples
-https://github.com/googlesamples/android-architecture
-
-gradle build speed up
-https://medium.com/@cesarmcferreira/speeding-up-gradle-builds-619c442113cb
-
-hide data in anroid
-https://rammic.github.io/2015/07/28/hiding-secrets-in-android-apps/
-
-java design patterns
-https://github.com/iluwatar/java-design-patterns
+Some pieces of advice in Android dev
+https://blog.aritraroy.in/what-my-2-years-of-android-development-have-taught-me-the-hard-way-52b495ba5c51
 
 Android architecture sample
 https://github.com/android10/Android-CleanArchitecture
 
-Android clean architecture
-https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029#.95oymchc4
+Java design patterns
+https://github.com/iluwatar/java-design-patterns
+
+hide data in Android
+https://rammic.github.io/2015/07/28/hiding-secrets-in-android-apps/
+
+gradle build speed up
+https://medium.com/@cesarmcferreira/speeding-up-gradle-builds-619c442113cb
+
+Android architecture samples
+https://github.com/googlesamples/android-architecture
+
+get rid of fragments in Android
+https://softwaremill.com/finally-getting-rid-of-android-fragments/
+
+why fragments in Android are bad
+https://medium.com/square-corner-blog/advocating-against-android-fragments-81fd0b462c97
+
+list of open source android apps
+https://github.com/pcqpcq/open-source-android-apps
+
+list of android libraries
+https://snowdream.github.io/awesome-android/Framework.html
+
+Why Kotlin on Android by Jake Wharton
+https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/preview?hl=ru&forcehl=1
+
+Fast.com speed measure architecture from Netflix
+http://techblog.netflix.com/2016/08/building-fastcom.html
+
+Email validation
+http://blog.onyxbits.de/validating-email-addresses-with-a-regex-do-yourself-a-favor-and-dont-391/
+
+About typical overengineering mistaks
+https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8
+
+Android blog
+http://blog.blundellapps.co.uk/
+
+Status bar color
+http://blog.makingiants.com/set-status-bar-color/
+
+Typedef (IntDef) annotations in kotlin syntax
+http://blog.makingiants.com/typedef-annotations-example-in-kotlin-intdef/
+
+About Dagger 2
+https://medium.com/azimolabs/dagger-2-on-production-reducing-methods-count-5a13ff671e30
+
+serverless apps (BaaS/FaaS) by Martin Fowler
+http://martinfowler.com/articles/serverless.html
+
+loading heavy libraries on startap
+http://szagurskii.com/blog/how-to-load-heavy-libraries-on-splash-screen/
+
+splash screen made right
+https://www.bignerdranch.com/blog/splash-screens-the-right-way/
+
+Rx defer
+http://blog.danlew.net/2015/07/23/deferring-observable-code-until-subscription-in-rxjava/

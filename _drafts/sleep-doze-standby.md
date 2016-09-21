@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 This topic aims to explain strategy of working in Android background.
 If words doze, job scheduler, standby or high priority pushes
-makes you confused, then welcome to the article.
+makes you confused, welcome to the article.
 
 <!--more-->
 
