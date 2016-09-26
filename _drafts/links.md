@@ -1,3 +1,9 @@
+20160925
+
+Function programming explained easy
+https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536
+https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a
+
 20160919
 
 View for simple camera API
@@ -83,3 +89,7 @@ https://www.bignerdranch.com/blog/splash-screens-the-right-way/
 
 Rx defer
 http://blog.danlew.net/2015/07/23/deferring-observable-code-until-subscription-in-rxjava/
+
+Android architecture by Hans Dorfman
+https://events.yandex.ru/lib/talks/3609/
+[video]
