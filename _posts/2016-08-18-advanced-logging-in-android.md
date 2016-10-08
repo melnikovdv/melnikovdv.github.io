@@ -56,12 +56,15 @@ There is a code sample for such solution. It can be configured via config file o
 
 {% gist 306f4ef5892e41498d35252c89d7a6db %}
 
-### What else
+### Few warnings
+
+If you're trying to stay at 64k methods, so there are quite many methods will be added with Logback.
+
+App startup time will increase during Logback initialization up to hundreed ms. But it can be avoided with init out of the main thread and mem-caching logging requests during initialization.
+
+Prevent attaching logs to the same crashes several times in a row. Debounce it once in an hour for example. It can be done with caching stacktraces's hashcodes and checking before sending.
 
 Don't forget to obfuscate user's personal data (passwords, names, etc).
-
-Prevent attaching logs to the same crashes several times in a row. Debounce it once in an hour for example.
-It can be done with caching stacktraces's hashcodes and checking before sending.
 
 ### Useful links
 

@@ -1,3 +1,5 @@
+https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d
+
 20160925
 
 Function programming explained easy
@@ -91,5 +93,6 @@ Rx defer
 http://blog.danlew.net/2015/07/23/deferring-observable-code-until-subscription-in-rxjava/
 
 Android architecture by Hans Dorfman
+https://www.youtube.com/watch?&v=7t7MN8e1W7s
 https://events.yandex.ru/lib/talks/3609/
 [video]
