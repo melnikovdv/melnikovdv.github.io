@@ -28,7 +28,7 @@ Logs shouldn't be affected by other apps usage.
 Writing logs to files can slowdown your performance. It should be done in the background.
 
 You don't want an endless log. It should be rotated.
-Rotation isn't a simple feature to implement. It's better to have a well well known and tested solution.
+Rotation isn't a simple feature to implement. It's better to have a well known and tested solution.
 
 Size of logs are individual for different apps. It should be easily setup.
 As option it's useful to set different buffer sizes for dev/beta builds and production builds. Just because you don't want to drain real user's traffic and battery for excessive logs.
