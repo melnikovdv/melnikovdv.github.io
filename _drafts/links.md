@@ -1,3 +1,7 @@
+20161112
+
+https://habrahabr.ru/post/310460/ - docker
+
 https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d
 
 20160925
